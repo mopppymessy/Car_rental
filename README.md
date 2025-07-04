@@ -29,6 +29,6 @@ The GUI version enhances usability, it includes:
 Car Return Window:
   Displays a list of currently rented cars. The user selects one and returns it. The system updates the car's availability and removes the record from the internal list.
 
-## Total Finance Detail:
+#### Total Finance Detail:
   Shows a tabulated summary of all rentals including the car name, days rented, total cost, and insurance type. It also displays the grand total of all rentals Total Income.
 The GUI closes when the user exits the main window. All inputs are validated and error-handled to ensure smooth operation.
